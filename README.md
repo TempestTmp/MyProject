@@ -10,3 +10,5 @@ myScanner - This program is written in Java and improves the built-in scanning m
 ApplicationSimpleСiphers - This is a school project written in python. The application allows you to delve into the study of cryptography in more detail.
 
 Возрождение_2_0 - This application is an advertisement written as part of the Hackathon program from Polytech. The award-winning audience award. Lets you learn more about the Arctic
+
+NumberByIEEE754 - This is an emulation of the IEEE-754 protocol in Python programming language
